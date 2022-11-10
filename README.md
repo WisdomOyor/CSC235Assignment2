@@ -1,1 +1,1 @@
-# CSC235Assignment2
+* CSC235 Assignment 2 (Practicals)
